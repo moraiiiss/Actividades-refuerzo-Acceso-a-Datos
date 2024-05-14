@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\Ficheros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317AAC57-0155-460C-BF22-B4B999F758CE}|Ejercicio11\\Ejercicio11.csproj|c:\\users\\morai\\onedrive\\escritorio\\ejercicios examen repaso\\ficheros\\ejercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317AAC57-0155-460C-BF22-B4B999F758CE}|Ejercicio11\\Ejercicio11.csproj|solutionrelative:ejercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61558C9-9EAA-4F74-8C44-AD158C38F479}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\morai\\onedrive\\escritorio\\ejercicios examen repaso\\ficheros\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61558C9-9EAA-4F74-8C44-AD158C38F479}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\Ficheros\\Ejercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\Ficheros\\Ejercicio11\\Program.cs*",
+              "RelativeToolTip": "Ejercicio11\\Program.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:30:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\Ficheros\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\Ficheros\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:05:28.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

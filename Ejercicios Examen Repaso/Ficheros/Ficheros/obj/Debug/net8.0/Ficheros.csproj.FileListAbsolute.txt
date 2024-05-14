@@ -1,0 +1,14 @@
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\bin\Debug\net8.0\Ficheros.exe
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\bin\Debug\net8.0\Ficheros.deps.json
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\bin\Debug\net8.0\Ficheros.runtimeconfig.json
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\bin\Debug\net8.0\Ficheros.dll
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\bin\Debug\net8.0\Ficheros.pdb
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.AssemblyInfoInputs.cache
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.AssemblyInfo.cs
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.dll
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\refint\Ficheros.dll
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.pdb
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\Ficheros.genruntimeconfig.cache
+C:\Users\morai\OneDrive\Escritorio\Ejercicios Examen Repaso\Ficheros\Ficheros\obj\Debug\net8.0\ref\Ficheros.dll
