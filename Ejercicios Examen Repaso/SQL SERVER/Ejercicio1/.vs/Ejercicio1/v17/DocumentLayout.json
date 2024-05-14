@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B382CC-5BB7-4DF7-9A27-BD2BCC4A75A1}|Ejercicio4\\Ejercicio4.csproj|C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B382CC-5BB7-4DF7-9A27-BD2BCC4A75A1}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B382CC-5BB7-4DF7-9A27-BD2BCC4A75A1}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\morai\\onedrive\\escritorio\\ejercicios examen repaso\\sql server\\ejercicio1\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61B382CC-5BB7-4DF7-9A27-BD2BCC4A75A1}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\Ejercicio4\\Form1.cs*",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:34:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Escritorio\\Ejercicios Examen Repaso\\SQL SERVER\\Ejercicio1\\Ejercicio4\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:34:06.923Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
